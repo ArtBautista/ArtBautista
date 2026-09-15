@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm a QA / SDET 👋</h1>
+<h1 align="center">Hi, I'm a ART BAUTISTA 👋</h1>
 
 <p align="center">
   Breaking things on purpose, so users never have to.

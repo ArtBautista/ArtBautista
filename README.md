@@ -50,8 +50,8 @@ I'm building toward production-ready AI-powered automation, one practical projec
 ## 📫 Connect
 
 - **GitHub:** [ArtBautista](https://github.com/ArtBautista)
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Email:** Add your professional email address
+- **LinkedIn:** [Art Bautista](https://www.linkedin.com/in/art-bautista-39b3b1299/)
+- **Email:** artbautista237@gmail.com
 
 ---
 

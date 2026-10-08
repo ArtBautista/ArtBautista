@@ -1,61 +1,58 @@
-AI Automation Engineer | QA Automation Engineer
+# Hi, I'm Art 👋
 
-Building reliable, intelligent automation systems using Python, Java, Selenium, TestNG, n8n, REST APIs, and AI technologies.
+### QA Automation Engineer | Aspiring AI Automation Engineer
 
-About Me
+I build and test reliable software workflows, with hands-on experience in **Java, Selenium WebDriver, TestNG, and software quality assurance**. I'm expanding into **AI automation, Python, n8n, API integrations, and agentic systems** to connect dependable test engineering with intelligent workflows.
 
-I'm a Software QA Automation Engineer expanding into AI Automation Engineering, with a focus on integrating AI into software testing, business workflows, and operational processes.
+My approach: **automate thoughtfully, validate outcomes, and design for reliability.**
 
-My interests include:
+## 🛠️ Technical Skills
 
-AI-powered workflow automation
+| Area | Technologies & Practices |
+| --- | --- |
+| **Test Automation** | Java, Selenium WebDriver, TestNG, Page Object Model (POM) |
+| **Quality Engineering** | Functional, Smoke, Regression, UAT, Test Case Design, Defect Tracking |
+| **Development & Collaboration** | Git, GitHub, Kanban, Agile QA Workflows |
+| **Monitoring** | Grafana, system health checks, incident reporting |
+| **Currently Learning** | Python, n8n, REST APIs, Webhooks, LLM Integrations, LangGraph, Docker |
 
-API integrations and backend automation
+## 🚀 Featured Project
 
-Selenium and TestNG test automation
+### [Bank Playground Test Automation](https://github.com/ArtBautista/BankPlaygroundTest)
 
-AI agents and Retrieval-Augmented Generation (RAG)
+A **Java + Selenium + TestNG** automation project covering realistic banking journeys on the QA Playground demo banking application.
 
-Automation reliability, monitoring, and testing
+- Uses the **Page Object Model** to organize reusable UI interactions.
+- Exercises workflows across **accounts, transfers, dashboard navigation, and send money**.
+- Applies assertions and validation scenarios to test expected behavior.
+- Serves as a foundation for future AI-assisted test failure analysis.
 
-Technical Skills
+> Explore the repository for the current implementation and test coverage.
 
-Programming: Java, Python, JavaScript, SQL
-Automation: Selenium WebDriver, TestNG, n8n
-AI Engineering: LLM APIs, structured outputs, LangGraph, RAG
-Integration: REST APIs, JSON, webhooks
-DevOps: Git, GitHub Actions, Docker
-Quality Engineering: Functional Testing, Regression Testing, API Testing, Test Automation
+## 🤖 AI Automation Learning Roadmap
 
-Featured Projects
+I'm building toward production-ready AI-powered automation, one practical project at a time:
 
-1. API Data Sync Automation
+- [ ] **API Data Sync Automation** — Python, n8n, REST APIs, PostgreSQL
+- [ ] **AI Ticket Triage** — LLM-based classification, structured outputs, human review
+- [ ] **RAG Knowledge Base Agent** — Python, document retrieval, LangGraph
+- [ ] **AI-Powered QA Failure Analyzer** — Selenium/TestNG reports, n8n, Python, AI-assisted defect drafts
 
-An API-driven workflow that retrieves, validates, transforms, and synchronizes data using n8n, Python, and PostgreSQL.
+*These are planned learning projects, not completed implementations.*
 
-2. AI Ticket Triage System
+## 🎯 What I'm Focused On
 
-An AI-powered workflow for classifying support requests, assigning priorities, and preparing structured responses.
+- Building maintainable, testable automation systems
+- Integrating APIs and AI into practical business workflows
+- Applying software QA principles to LLM and agentic applications
+- Improving monitoring, error handling, and workflow reliability
 
-3. RAG Knowledge Base Agent
+## 📫 Connect
 
-A document-aware AI assistant that retrieves relevant knowledge and generates grounded answers.
+- **GitHub:** [ArtBautista](https://github.com/ArtBautista)
+- **LinkedIn:** Add your LinkedIn profile URL
+- **Email:** Add your professional email address
 
-4. AI-Powered QA Failure Analyzer
+---
 
-An AI-assisted testing pipeline that processes Selenium/TestNG failures, identifies possible root causes, and prepares defect reports for review.
-
-Currently Learning
-
-AI workflow orchestration
-
-LangGraph and agentic AI
-
-Production AI system design
-
-LLM evaluation and observability
-
-Engineering Philosophy
-
-Build automations that are reliable, secure, maintainable, measurable, and testable.
-
+*Reliable automation first. Intelligent automation where it adds value.*
